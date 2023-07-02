@@ -70,6 +70,7 @@ const TravelMain = () => {
           </motion.h3>
           <motion.p
             className={`
+            max-w-[800px]
               ml-2 transition-transform text-white max-w-[100%]`}
             animate={setTextTransform ? "moving" : { y: 0 }}
             variants={descriptionVariants}

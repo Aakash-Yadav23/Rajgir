@@ -8,7 +8,7 @@ const Navbar = () => {
 
   return (
     <header className="flex fixed gap-5 w-full justify-between z-[100] pl-[20px] pt-[10px] pb-[10px] pr-[25px]">
-      <h1 className="text-white font-bold text-3xl">Rajgir</h1>
+      <h1 className="text-white font-bold text-[50px]">Rajgir</h1>
 
       <nav className="flex gap-4 hidden items-center text-white sm:flex">
         <Link href="/about-us">About Us</Link>
@@ -41,7 +41,7 @@ const Navbar = () => {
               : "translate-y-[-100%] transition duration-1000 ease-in-out"
           }`}
         >
-          <Link href="/">Discover</Link>
+      
           <Link href="/about-us">About Us</Link>
           <Link href="/contact-us">Contact Us</Link>
         </nav>

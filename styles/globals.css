@@ -30,7 +30,8 @@ body {
 
 body {
       
-  background: var(--background-end-rgb);
+  background: url('../public//images/divine/budha-1.jpg');
+  background-size: cover;
    /* background: linear-gradient(
       to bottom,
       transparent,
