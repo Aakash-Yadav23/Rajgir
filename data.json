@@ -1,0 +1,149 @@
+{
+    "places": [
+        {
+            "title": "Nalanda University",
+            "description": "Nalanda University was one of the oldest and most renowned centers of learning in ancient India. Located near Rajgir, it was a Buddhist monastic university that attracted scholars and students from all over the world. The university flourished from the 5th to the 12th century and was a hub of intellectual and cultural activities.",
+            "history": "Nalanda University was established during the Gupta Empire under the patronage of Emperor Kumaragupta. It had a vast campus with multiple buildings and residential quarters for students and teachers. The university offered a wide range of subjects, including philosophy, theology, astronomy, mathematics, and medicine. It played a significant role in the spread of Buddhism and the development of various academic disciplines.",
+            "legends": "According to legends, the famous Chinese Buddhist monk Xuanzang visited Nalanda University in the 7th century and studied there for several years. He later documented his experiences and observations, providing valuable insights into the university's curriculum, infrastructure, and the intellectual environment of the time.",
+            "ratings": 4.8,
+            "images": "/images/divine/nalanda-khandar.png"
+        },
+        {
+            "title": "Venu Vana",
+            "description": "Venu Vana is a beautiful bamboo grove located in Rajgir. The grove is known for its serene ambiance and tranquil environment, making it a popular spot for nature lovers and meditation enthusiasts. It offers a peaceful retreat amidst lush greenery and is often visited by those seeking solitude and spiritual solace.",
+            "legends": "According to legends, it is said that Lord Buddha used to meditate in Venu Vana during his visits to Rajgir. The grove is associated with his teachings and is considered a sacred site by Buddhists. Many visitors come to Venu Vana to practice meditation and connect with nature.",
+            "ratings": 4.7,
+            "images": "/images/divine/venuvan.jpg"
+        },
+        {
+            "title": "Pandu Pokhar",
+            "description": "Pandu Pokhar is a historic tank located in Rajgir. It is an ancient reservoir that dates back to the Mahabharata era. The tank is surrounded by lush greenery and offers a peaceful and serene environment for visitors.",
+            "history": "Pandu Pokhar is named after the Pandavas, the legendary heroes of the Mahabharata. It is believed that the Pandavas stayed in Rajgir during their exile and used this tank for bathing and other water-related activities. The tank is known for its architectural beauty and is considered an important archaeological site.",
+            "legends": "According to popular belief, it is said that Draupadi, the wife of the Pandavas, used to bathe in Pandu Pokhar during their stay in Rajgir. The tank is associated with various mythological stories and is considered a sacred site by the locals.",
+            "ratings": 4.7,
+            "images": "/images/divine/pandupokhar.jpg"
+        },
+        {
+            "title": "Kund",
+            "description": "Kund is a group of hot water springs located in Rajgir. These natural springs are known for their medicinal properties and are frequented by tourists seeking therapeutic baths. The Kund area also has several ancient temples and bathing ghats.",
+            "history": "The hot water springs of Rajgir have been known for their healing properties since ancient times. The water from these springs is rich in minerals and is believed to cure various ailments. The Kund area was a popular destination for pilgrims and is mentioned in several historical texts.",
+            "legends": "According to legends, it is said that Lord Buddha himself used to bathe in these hot water springs for relaxation and relief from physical ailments. The Kund area is also associated with the famous Ajatshatru, the king of Magadha, who built several bathing ghats around the hot springs.",
+            "ratings": 4.6,
+            "images": "/images/divine/pond.jpg"
+        },
+        {
+            "title": "Veerayatan Museum",
+            "description": "Veerayatan Museum is a renowned museum located in Rajgir. It houses a vast collection of artifacts and exhibits that depict the life and teachings of Lord Mahavira, the 24th Jain Tirthankara. The museum provides insights into Jain philosophy and showcases the region's cultural heritage.",
+            "distance": "4 km",
+            "images": "/images/divine/veerayatan-museum.jpg"
+        },
+        {
+            "title": "Glass Bridge",
+            "description": "The Glass Bridge in Rajgir is a thrilling attraction that offers visitors a unique experience of walking on a transparent glass bridge suspended above a beautiful landscape. It provides panoramic views of the surrounding hills and valleys, creating a sense of awe and adventure.",
+            "distance": "2.5 km",
+            "ratings": 4.8,
+            "images": "/images/divine/glass-bridge-3.jpg"
+        },
+        {
+            "title": "Cool Swimming Pool",
+            "description": "The Cool Swimming Pool is a recreational facility in Rajgir that offers a refreshing and enjoyable experience for visitors. With its clean and well-maintained pools, water slides, and amenities, it provides a perfect escape from the heat and a fun-filled environment for people of all ages.",
+            "images": "/images/divine/swimmingpool.jpg"
+        },
+        {
+            "title": "Zoo Safari",
+            "description": "The Zoo Safari in Rajgir is a wildlife park that allows visitors to observe and admire various animal species in their natural habitats. It offers a unique safari experience where you can see animals like lions, tigers, bears, deer, and more up close in a safe and controlled environment.",
+            "distance": "3.5 km",
+            "ratings": 4.8,
+            "images": "/images/divine/zoo-safari-6.jpg"
+        },
+        {
+            "title": "Ghora Katora",
+            "description": "Ghora Katora is a scenic lake located in Rajgir. Surrounded by hills and lush greenery, it is a popular spot for nature lovers and picnickers. The serene ambiance and picturesque landscape make it an ideal place for relaxation and rejuvenation.",
+            "history": "Ghora Katora is believed to be a natural crater lake formed due to a meteorite impact. The name 'Ghora Katora' translates to 'Horse Bowl' in English, owing to its shape resembling a horse's hoofprint. The lake is considered sacred by the locals and is associated with several mythological tales.",
+            "legends": "According to legends, it is said that Lord Krishna's horses used to drink water from this lake during their visit to Rajgir. The lake is also mentioned in ancient scriptures and is believed to possess healing properties. Visitors often come to Ghora Katora to enjoy the tranquil surroundings and take a leisurely stroll along its banks.",
+            "ratings": 4.5,
+            "images": "/images/divine/ghora-katora.jpg"
+        },
+   
+        {
+            "title": "Sonabhandar",
+            "description": "Sonabhandar, also known as the Golden Temple, is a famous religious site in Rajgir. It is a revered shrine for Buddhists and is believed to be the place where Lord Buddha meditated and attained enlightenment. The temple's golden facade and serene ambiance attract devotees and tourists alike.",
+            "legends": "According to legends, it is said that Lord Buddha spent several years meditating in Sonabhandar before achieving enlightenment. The temple is associated with various stories and miracles attributed to Lord Buddha's presence. Many visitors come to Sonabhandar to seek blessings and experience the spiritual atmosphere.",
+            "ratings": 4.7,
+            "images": "/images/swarn-bhandar.jpg"
+        },
+        {
+            "title": "Vishwa Shanti Stupa",
+            "description": "Vishwa Shanti Stupa, also known as the Peace Pagoda, is a magnificent white stupa located atop Ratnagiri hills in Rajgir. It is a symbol of peace and harmony and offers panoramic views of the surrounding valleys and mountains. The stupa is a popular pilgrimage site and attracts visitors from all over the world.",
+            "distance": "2 km",
+            "images": "/images/divine/shantistupa-1.jpg"
+        },
+        {
+            "title": "Ajatshatru Fort",
+            "description": "Ajatshatru Fort is an ancient fort located in Rajgir. It was built by King Ajatshatru, who was one of the prominent rulers of the Magadha Empire. The fort offers a glimpse into the region's rich history and provides panoramic views of the city and its surroundings.",
+            "distance": "3 km",
+            "images": "/images/divine/Ajatashatru.jpg"
+        },
+    
+        {
+            "title": "Jarasandha's Akhara",
+            "description": "Jarasandha's Akhara is an ancient wrestling arena located in Rajgir. It is named after King Jarasandha, a prominent figure from the Mahabharata. The akhara was a center for wrestling competitions and martial arts training during ancient times.",
+            "history": "Jarasandha's Akhara holds historical significance as it was believed to be the place where famous wrestlers and warriors trained. It was a renowned hub for wrestling and physical fitness in the region and attracted participants from far and wide. The akhara's architecture and layout provide a glimpse into the traditional wrestling culture of ancient India.",
+            "ratings": 4.4,
+            "images": "/images/divine/akhara.jpeg"
+        },
+       
+        {
+            "title": "Saptparni Caves",
+            "description": "Saptparni Caves are a group of ancient caves located in Rajgir. These caves hold great historical and religious significance as they are believed to be the site where the first Buddhist council took place after Lord Buddha's Mahaparinirvana. The caves offer a glimpse into the early development of Buddhism and are revered by Buddhists worldwide.",
+            "history": "The Saptparni Caves served as a meeting place for 500 arhats (enlightened monks) after the passing away of Lord Buddha. The first Buddhist council, known as the 'Saptaparni Cave Council,' was held here to preserve and recite the Buddha's teachings. The caves have been a pilgrimage site for Buddhists for centuries and continue to attract devotees and scholars.",
+            "ratings": 4.6,
+            "images": "/images/divine/saptaparni-caves.jpg"
+        },
+        {
+            "title": "Rajgir Ropeway",
+            "description": "Rajgir Ropeway is a popular tourist attraction in Rajgir that provides a breathtaking aerial view of the city and its scenic surroundings. The ropeway connects the foothills to the Vishwa Shanti Stupa, offering visitors a convenient and thrilling mode of transportation.",
+            "ratings": 4.5,
+            "images": "/images/divine/ropway.jpg"
+        },
+       
+        {
+            "title": "Bimibisar Jail",
+            "description": "Bimibisar Jail, also known as Bimisar Prison, is an ancient prison located in Rajgir. It is associated with King Bimbisara, a prominent ruler of Magadha. The jail's ruins serve as a historical reminder of the region's rich past and offer insights into the prison systems of ancient times.",
+            "history": "Bimibisar Jail was built during the reign of King Bimbisara and was primarily used to detain political prisoners and enemies of the state. It was known for its strong security measures and strict confinement conditions. The jail played a significant role in the political landscape of Magadha and witnessed various historical events.",
+            "ratings": 4.3,
+            "images": "/images/divine/bimbisara-jail.jpg"
+        },
+      
+     
+        {
+            "title": "Maniar Matth",
+            "description": "Maniar Matth is a renowned Jain temple located in Rajgir. It is dedicated to Lord Mahavira, the 24th Jain Tirthankara. The temple complex is known for its beautiful architecture, intricate carvings, and peaceful surroundings, making it a popular destination for devotees and tourists.",
+            "history": "Maniar Matth was established to honor and propagate the teachings of Lord Mahavira. It serves as a center for Jain religious and cultural activities. The temple complex also includes a meditation hall, a library, and a museum that showcases Jain scriptures, artifacts, and artworks.",
+            "ratings": 4.5,
+            "images": "/images/divine/maniar-math.jpeg"
+        },
+        {
+            "title": "Kundalpur",
+            "description": "Kundalpur is a sacred Jain pilgrimage site located near Rajgir. It is associated with Lord Mahavira and is believed to be the place of his birth. The site features several ancient temples, including the main Kundalpur Temple, dedicated to Lord Mahavira, attracting Jain devotees from around the world.",
+            "legends": "According to Jain legends, Lord Mahavira was born in Kundalpur to King Siddhartha and Queen Trishala. The place holds immense religious significance for Jains, and numerous rituals and festivals are celebrated here throughout the year. The serene environment and spiritual aura make Kundalpur an ideal place for introspection and devotion.",
+            "ratings": 4.6,
+            "images": "/images/divine/kundalpur.jpg"
+        },
+        {
+            "title": "Stupa of Sariputra",
+            "description": "The Stupa of Sariputra is an ancient Buddhist stupa located in Rajgir. It is dedicated to Sariputra, one of the chief disciples of Lord Buddha. The stupa is a significant pilgrimage site for Buddhists and serves as a reminder of Sariputra's contributions to the spread of Buddhism.",
+            "history": "The Stupa of Sariputra was constructed to honor Sariputra's role in disseminating the teachings of Lord Buddha. It is believed to house relics or remains associated with Sariputra, making it an important place of veneration for Buddhist followers. The stupa's architectural design and historical significance make it an intriguing attraction for visitors.",
+            "ratings": 4.4,
+            "images": "/images/divine/shantistupa-1.jpg"
+        },
+        {
+            "title": "Jivaka's Mango Garden",
+            "description": "Jivaka's Mango Garden is a beautiful garden located in Rajgir. It is named after Jivaka, a renowned physician during ancient times and one of the followers of Lord Buddha. The garden is known for its lush greenery and abundance of mango trees, providing a serene and refreshing atmosphere.",
+            "history": "Jivaka's Mango Garden holds historical significance as it was donated to Jivaka by King Bimbisara, who recognized his medical expertise. The garden was a retreat for Jivaka and served as a place for meditation, relaxation, and the cultivation of medicinal plants. Today, it offers visitors a peaceful environment to enjoy nature's beauty.",
+            "ratings": 4.3,
+            "images": "/images/divine/mango-garden.jpeg"
+        }
+     
+    ]
+}
