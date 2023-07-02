@@ -10,7 +10,7 @@ const ContactPage = () => {
   const [isError, setIsError] = useState(false);
   const [successMessage, setSuccessMessage] = useState("");
 
-  const handleSubmit = async (e) => {
+  const handleSubmit = async (e:any) => {
     e.preventDefault();
 
     setIsLoading(true);
