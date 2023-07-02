@@ -11,8 +11,6 @@ const Navbar = () => {
       <h1 className="text-white font-bold text-3xl">Rajgir</h1>
 
       <nav className="flex gap-4 hidden items-center text-white sm:flex">
-        <Link href="/">Discover</Link>
-        <Link href="/saved-trip">Saved Trip</Link>
         <Link href="/about-us">About Us</Link>
         <Link href="/contact-us">Contact Us</Link>
       </nav>
@@ -44,7 +42,6 @@ const Navbar = () => {
           }`}
         >
           <Link href="/">Discover</Link>
-          <Link href="/saved-trip">Saved Trip</Link>
           <Link href="/about-us">About Us</Link>
           <Link href="/contact-us">Contact Us</Link>
         </nav>

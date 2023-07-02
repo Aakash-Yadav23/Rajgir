@@ -5,6 +5,7 @@ import { motion } from "framer-motion";
 
 import data from "@/data.json"; // Adjust the file path if needed
 import { GrFormPrevious, GrFormNext } from "react-icons/gr";
+import Link from "next/link";
 
 const TravelMain = () => {
   const { places } = data;
@@ -57,10 +58,10 @@ const TravelMain = () => {
     <div className="flex relative flex-col gap-5 w-[100%]">
       <Tracker currentNumber={currentPlace} dataLength={data?.places?.length} />
       <div className="flex flex-col md:flex-row lg:flex-row h-screen">
-        <div className="  w-full md:w-[60%] lg:w-[60%] mt-[100px] overflow-hidden flex flex-col gap-4 pl-[27px] justify-center">
+        <div className="relative  w-full md:w-[60%] lg:w-[60%] mt-[100px]  flex flex-col gap-4 pl-[27px] justify-center">
           <motion.h3
             className={`
-              rotate- transition-transform
+              rotate- transition-transform pl-2 md:pl-0
                sm:text-2xl md:text-3xl text-white font-bold lg:text-8xl`}
             animate={setTextTransform ? "moving" : { y: 0 }}
             variants={titleVariants}
@@ -75,10 +76,18 @@ const TravelMain = () => {
           >
             {description}
           </motion.p>
+{/* 
+          <Link
+            className="mt- fixe bottom-13 flex items-center gap-4 pl-4 pr-4 font-bold text-2xl bg-blue-900 text-white rounded-sm w-fit p-2"
+            href={`/article`}
+          >
+            Explore
+          </Link> */}
         </div>
 
         <div
-          className="flex w-full pl-[20px] items-center bg-transparent w-full mt-[20px] md:mt-[100px] md:w-[40%] lg:w-[40%] overflow-hidden"
+          className="flex w-full pl-[31px] items-center bg-transparent w-full mt-[20px] md:mt-[100px] md:w-[40%] lg:w-[40%]
+           overflow-hidden"
           // style={{
           //   transition: "opacity 0.3s ease-in",
           //   opacity: setFade ? 0 : 1,
@@ -89,13 +98,12 @@ const TravelMain = () => {
             style={{
               transform: `translateX(-${currentPlace * 282}px)`,
               transitionTimingFunction: "ease-in-out",
-          
             }}
           >
             {places.map((place, index) => (
               <div
                 key={index}
-                className={`w-full box-border  transition duration-1000 ease-in-out
+                className={`w-full box-border  transition duration-1000 ease-in-out overflow-hidden
            
                 `}
               >
