@@ -4,14 +4,14 @@ import React from "react";
 interface TravelCardProps {
   title: string;
   images: string;
-  rating: number;
+ 
   current?: boolean;
 }
 
 const TravelCard: React.FC<TravelCardProps> = ({
   title,
   current,
-  rating,
+
   images,
 }) => {
   return (
@@ -29,14 +29,7 @@ const TravelCard: React.FC<TravelCardProps> = ({
       }}
     >
       <h3>{title}</h3>
-      {/* <StarRatings
-        rating={rating}
-        starRatedColor="gold"
-        numberOfStars={5}
-        starDimension="20px"
-        starSpacing="2px"
-      /> */}
-     
+   
    
         <div className="flex w-[100%] mt-1 rounded-[10px]  overflow-hidden">
           <img

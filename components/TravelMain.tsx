@@ -111,7 +111,7 @@ const TravelMain = () => {
                 <TravelCard
                   title={place.title}
                   images={place.images}
-                  rating={place.ratings}
+               
                   current={index === currentPlace}
                 />
               </div>
