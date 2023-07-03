@@ -2,9 +2,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+App Screenshots
+![Screenshot_select-area_20230704052004](https://github.com/Aakash-Kashyap24/Rajgir/assets/110857134/fd9377a6-0816-4887-9559-df322d3844b4)
+
+
 First, run the development server:
 
 ```bash
+
+
 npm run dev
 # or
 yarn dev
