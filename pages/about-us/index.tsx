@@ -1,10 +1,13 @@
 import React from "react";
 import Navbar from "@/components/Navbar";
+import Head from "next/head";
 
 const AboutUsPage = () => {
   return (
     <>
-
+ <Head>
+        <title>About Us</title>
+      </Head>
       <div className="flex items-center justify-center  bg-white w-full h-screen">
         <div className="max-w-3xl mx-auto">
           <h1 className="text-3xl font-bold mb-6">About Me</h1>

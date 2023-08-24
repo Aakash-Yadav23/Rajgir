@@ -12,7 +12,7 @@ const Navbar = () => {
 
       <nav className="flex gap-4 hidden items-center text-white sm:flex">
         <Link href="/about-us">About Us</Link>
-        <Link href="/contact-us">Contact Us</Link>
+        <Link href="/contactus">Contact Us</Link>
       </nav>
 
       <div className="relative flex flex-col gap-3 text-white items-end sm:hidden md:hidden lg:hidden justify-center">

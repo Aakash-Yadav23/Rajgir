@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
+import Head from "next/head"; // Import the Head component
+
 
 const ContactPage = () => {
   const [name, setName] = useState("");
@@ -37,6 +39,9 @@ const ContactPage = () => {
 
   return (
     <div className="flex items-center justify-center bg-gray-100 min-h-screen">
+      <Head>
+        <title>Contact Us</title>
+      </Head>
       <div className="bg-white rounded shadow p-6 max-w-lg w-full">
         <h2 className="text-2xl font-bold mb-4">Contact Us</h2>
         {isError && (
